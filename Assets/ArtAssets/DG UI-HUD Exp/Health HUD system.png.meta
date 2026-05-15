@@ -1,0 +1,4593 @@
+fileFormatVersion: 2
+guid: 653e5c8aba0433145b0ccad441086df2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Health HUD system_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 418
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383f8b224358a214a82804122abf9a49
+      internalID: 1577132539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 418
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca6784723e1ed149b972db1f2c38fb7
+      internalID: 329407847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 418
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc9bea2cb60cab41af7f5feb7320847
+      internalID: 2145796106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 418
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2027be62340c846840a2d7cd709e5c
+      internalID: 1729049086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 418
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2453b6818b86c4eaa6950866984fd3
+      internalID: -597339068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 418
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d23f3b34e15a4458e2143ae7ae178e
+      internalID: -1322837274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 418
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a81071ed71802741b193b3661be3244
+      internalID: 596692822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_7
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 418
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44df392e5e21ff49a62276de9004ed5
+      internalID: -1823596828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_8
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 402
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b3e8e6d552f5448be78686a4ab615
+      internalID: 458744026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 402
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9302d14617413a4ea7e3378c5e91031
+      internalID: 156381134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 402
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4945b310fe055064aa9eb40a17a8013b
+      internalID: 2134489200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 386
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b7c01cdf5a304d9562876050a2544
+      internalID: -342646367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 386
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f605ebce191fcf4cb7b5f32f24fde2b
+      internalID: 595909960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 386
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6826b77eee0fac54ea1e78945666b762
+      internalID: -1888631085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 386
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4b810415675f04eaf8fcf51f821c7f
+      internalID: 760126657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 386
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e3892494b814e4e83ed331a378966a
+      internalID: 828609781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 386
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c1e95d784577e4ea935eb65685f483
+      internalID: -50196421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_17
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 386
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7537fb8d4332a4abfee2f351f93f42
+      internalID: -897414666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_18
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 386
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a71deea014d1d74ab7899f9e61d2c31
+      internalID: 1164778868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 386
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e475f55cd1e4f34dbd74497ce6a390c
+      internalID: 1999235345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 386
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb6d9ee3de591458c6e1ba825beee0
+      internalID: -1511741340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 386
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6c8780f9390542a4ea547276c2029
+      internalID: 1334594422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_22
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 370
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00465d1bd87b564596595b6bba31158
+      internalID: -1271515610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 370
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce806f7160c0ded4aa544b85726db188
+      internalID: 16799775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_24
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 370
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2e01c4c414c3c47ba1cd875bbae2f8
+      internalID: 1512111033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 354
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f83fabc75458d47a3d05092be11264
+      internalID: 726823330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 354
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a088462ceafe4daf136b20d15830e
+      internalID: 874421222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 354
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0fe92feeb0c654eb2791977be4373c
+      internalID: 800087852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 354
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f3e9e5863164547b31ab8bd4ccbeb8
+      internalID: 1595897066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_29
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 354
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a6e332af80ef340b9c2f5bc1cd6925
+      internalID: 1930767444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 354
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f0abfd8a93a974dad5b7c227b9309f
+      internalID: -1135670544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_31
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 354
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add20d9895e2b024eba52425473b7937
+      internalID: 286219209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_32
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 354
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ba31e875b443a4a874bdbd95510d2d
+      internalID: -1232177699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_33
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 354
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98e65cf528ed6479805a6279e0088f
+      internalID: 630241736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 354
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456cddcb3e6856a4f920818614880487
+      internalID: -1409950379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 354
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3b7f456f864224fad171f7d2a735ca
+      internalID: -1070136358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_36
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 338
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d971aceaff625fe4191dc9430a865713
+      internalID: -1836680717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 338
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62acf555713afd249a14c6087ec2b2ec
+      internalID: 1387196923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 338
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b0aa6439f3daa458a40c20dd892375
+      internalID: -845200119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7988f9992142a7949b5f48625feaaaba
+      internalID: 65680089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 322
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114cc0fa57b8611449a2b70007104ee6
+      internalID: 117949340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 322
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71428b7c08651f146a0ecafe51808493
+      internalID: -5875488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 322
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06f33c56fb9ed940b8c44823d8fc56f
+      internalID: 263715961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 322
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e5319811dbd8e419ae4516b3b483c1
+      internalID: 249512436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_44
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 322
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0803362313694f4ab0742cd65102bcd
+      internalID: -123764919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 322
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa9da2bd4e417f4498332f9558e9254
+      internalID: 1016550917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_46
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 322
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e0e60af5ab10d45bb1a2716d5218bb
+      internalID: -524804030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_47
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 322
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e99dd6aef1a1fc4287994317929e35b
+      internalID: 613173808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_48
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 322
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e21b43bb6307648be63df1f22ca0de
+      internalID: 418210299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_49
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 322
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b284cff4dc53fb468b1a95dd6cb4bf3
+      internalID: -303109817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 322
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cddfa8bb7e40440806ea3304dfcdc3
+      internalID: 1074980153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 322
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dca5c3d72917d4c8d4c38e19f51506
+      internalID: -2123613315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc29e6b468a7734c85e497e382ed576
+      internalID: 2113209838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_53
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 306
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ada9ae79f5214784d6c727fbd0b90
+      internalID: 782529537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_54
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 306
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a210ab38eafb42944566c1d272aec
+      internalID: -642797093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_55
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 306
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ebe5c92043b6944bea561ea6a90811
+      internalID: -391119049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 306
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a97763e10554e469886dd516009c63
+      internalID: 462014348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 290
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a347cbe47cbeca147827ea8db76fda8d
+      internalID: 465076805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 290
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91cf680ce8a3364eba587f9488b5a8e
+      internalID: 1496920849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_59
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 290
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2a0994f152cba499b5edb35d19fbc2
+      internalID: 2056947985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 290
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1bd968231516d4ca3e9ed35faa89e4
+      internalID: 633750768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_61
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 290
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09da20171d6edc4cb4bc5df03707453
+      internalID: -1155004248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_62
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 290
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1a063380bfba04ca6c3100d17cd9be
+      internalID: -1476627718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_63
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 290
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b2b24a4babf9468a937511a6be583
+      internalID: 2066109824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_64
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 290
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aca04e8410190f42ba02e7f89d3deba
+      internalID: 44462809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_65
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 290
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee60d5978f01de44b33baaa6f75d6dd
+      internalID: -1719619079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_66
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 290
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c593cd9fbbfc1604196dafb84a0e62b4
+      internalID: 1594924630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_67
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 290
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ff3bc781235a48b5bb7cb834de43b
+      internalID: 715706969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 290
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b3f3add61d1354e99d16e7303713a6
+      internalID: -750919360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_69
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 290
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00938a87839e4c54b9cb68569c2729d8
+      internalID: 914140974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 274
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7005121470366b34ab3d0586ef754cfe
+      internalID: 102181472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 274
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f58f069ab136049b256e3473817247
+      internalID: 1006444829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_72
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 274
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2825649138a0384382feb8335dc7b37
+      internalID: -1547791477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_73
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 274
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93bc51ad6b728d49be11165201c8684
+      internalID: 1480189222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_74
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 274
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f858e0b38fad0b4781c6d6fa7b118f8
+      internalID: 468369922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497dde6d48ba62c41a88599246be4d72
+      internalID: -2125254711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_76
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 258
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be58db08a2f3f54fa95859553943b77
+      internalID: 694404667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_77
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 258
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8ef1f3e25406b4e88fe02c608c6acb
+      internalID: -2075990506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_78
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 258
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f610b228282861d4e9c902c5f6499f60
+      internalID: 2127427448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 258
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ab7adea004a78459d76b0592ec5910
+      internalID: 787553770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_80
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 258
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf073363749414e81a28b1d7b663b6
+      internalID: -676962967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_81
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 258
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e795b4c04fa5d4e9a2985617d2da38
+      internalID: 191950093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_82
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 258
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69149a98850880468dafb351f99aba9
+      internalID: -202788738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_83
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 258
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a56ec3dd81deb418408035d168358f
+      internalID: 1449485549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_84
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 258
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875bec0d00a24824d8088f2f1ce03e27
+      internalID: 1067707504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_85
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 258
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe1cdeef74df094dad999b0e68afaef
+      internalID: -1967158398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_86
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 258
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e944764a073f876498fe31379c3ce2b2
+      internalID: 254914626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_87
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 258
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6d96b4e20cd5646beeae6d75ffa705
+      internalID: -1570582960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_88
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 225
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3e0658265fe8d49aa1bd9a95d1e8b7
+      internalID: -422958314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_89
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 224
+        width: 94
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd9bcece79067248b1ba4075a14b5b7
+      internalID: -1791967074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_90
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 225
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd61844335bd004e9ed693a9a8bc32d
+      internalID: 1788382066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_91
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 225
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c92390b49b597448cc177ff75b9015
+      internalID: 297087018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_92
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd4afe54d5500b4bbf9950be5f34e62
+      internalID: 361613033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_93
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 242
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43103e7e47b8b049b99faa9663b323a
+      internalID: 2091253383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_94
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 242
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504e748e2df11df48a65f77cf1ea14c8
+      internalID: -1821041972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 242
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c22ec0f4780834b9a357f4d702eeb1
+      internalID: -2088235742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_96
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 242
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baf05048af0e6944ae262831c9646a8
+      internalID: 905690009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_97
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 242
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331632d92674e0b49a7ddc0a13328778
+      internalID: 2081208009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_98
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 230
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b3717e754638a40985d1d67f699d9e
+      internalID: 659831971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 230
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28121bf1355832469389d828918d83a
+      internalID: -1568964664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_100
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 230
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42423410836c6ed4da913cd7bec68175
+      internalID: 644770934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_101
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 230
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8609fc3e6fa4a64a9f01d166a110799
+      internalID: 518510600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_102
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 230
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cc02dcee838d543af5cd23a2aa2992
+      internalID: 899782182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_103
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 230
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3585498292d2842a13bb5c02bc44fd
+      internalID: -1189105663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_104
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 225
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbde0cdbff31e3418a6357850993516
+      internalID: -1990191436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 225
+        width: 91
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8438f3e973e089f438290b0dadd4680a
+      internalID: 301558026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_106
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 226
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b0f2830a98a4442b2b85756abe8bdc
+      internalID: -1565544176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_107
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 226
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80e53e531e14e64d9e58d15b67fd41b
+      internalID: -244893529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_108
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 226
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cff23fb7029364ebe97052fcc30c38
+      internalID: -222723879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_109
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 226
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812813e4730ec3847bae1616ecb82618
+      internalID: 1928950186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_110
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 226
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d9e1487b2095e43aa7344f5da69b62
+      internalID: -904398559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_111
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 213
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff0c99a1a93df4bba51b13bdb247cb
+      internalID: -1444638423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_112
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 213
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff590bfd5799b44082baae65af8f8d8
+      internalID: -1773274711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_113
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 213
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e612596a7f5e5b459934bf524dc056d
+      internalID: -2139458240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_114
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 213
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da31ede5942040a49b67a912f0fbc78d
+      internalID: 1043686122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 213
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e938e04f4cc0f48960b50c2a43b236
+      internalID: 1524441725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_116
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 213
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aef39015bb37a24b9084dcaf670cf1c
+      internalID: -1876490564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_117
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 193
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ae652757b629748904af00c14c90b6
+      internalID: -1458393224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_118
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 94
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb868fd54e9aff840981a05832663bca
+      internalID: -1306177120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_119
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 193
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88720097b3182754d957c8342059dbcb
+      internalID: -1818922848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_120
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 193
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4582d74cadc464b98fc5faaa9334fb
+      internalID: -1984677083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_121
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 196
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fb5477dffb65847ac4345bba32879e
+      internalID: 978288544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_122
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 210
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3da8539c589d4428fa45d850f06d93
+      internalID: 87437760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_123
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 210
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505d058aea89b04aa9889dfe6c8aeed
+      internalID: 953591470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_124
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 210
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c34cb3e52e630a47ace3ec199cb34d8
+      internalID: 793414575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_125
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 210
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12116d2bbe08db84a8e2ed18f06487b1
+      internalID: 1237308347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_126
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 210
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2020349a8ac1e4296d30730ca26e5b
+      internalID: -229302549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_127
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 200
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4f733f0cc7bb548a140979ccc462fc
+      internalID: -492998653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_128
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 200
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1baf138b11b4546b2c4c8adf2c7375
+      internalID: 1961148755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_129
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 200
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da1d3e48e2ee0f42b2ea550cd3d5d02
+      internalID: -1576704201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_130
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 200
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dd866c2e811e141b6f71c18cfb55cf
+      internalID: 2126526181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16efe422dde09c4fac3908a5a6edaf9
+      internalID: -2057565370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_132
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 200
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f214aa30e2c688438911b8cb64dd3a4
+      internalID: -2147034316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_133
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 193
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b8d0e89eaf921438b845a8a3d7c8ac
+      internalID: 675171860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_134
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 193
+        width: 91
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7191043065f98488e6b8f60605a596
+      internalID: -95178564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_135
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 194
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c96de141054444b7a281708b6545b
+      internalID: 1117484541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_136
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 194
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba3bc210a698354e8e721daaa21b3e3
+      internalID: -347481401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_137
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 194
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9841ea6e4048274cbdfeb6edde8a785
+      internalID: 346255664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_138
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 194
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17081671a7b04c342bd4b2601522abcc
+      internalID: -1908053180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_139
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 194
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3fdcbb7a29c6f4f893ef251e0fc1df
+      internalID: -82470642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_140
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 194
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c04a2b2bd350047b7175e3db7b9e9d
+      internalID: -2118079369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_141
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 194
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d408ca8150449428690ee752f55294
+      internalID: -1017323108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_142
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 194
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c25bec7f84e5842ac11e488349cc8d
+      internalID: 1962615383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cacc7037e948c4cab5e3ec9a328251
+      internalID: 757869095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_144
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 161
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb25726c616d87b48a0a34b3184c05c6
+      internalID: -197630924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_145
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 160
+        width: 94
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c073767b8cd6693439b2a0fbf296c812
+      internalID: -105399484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_146
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 161
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacca3a8e94fcbc4baad62f018f8ec05
+      internalID: -789056673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_147
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 161
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28acbaf6cf71dc64c98628ea07958609
+      internalID: 2061195130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_148
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 164
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e7bb422f06ee941bc44cda046015a6
+      internalID: 1140819310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_149
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 178
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee0fb11bf3d40940b5e06bb00c0efbc
+      internalID: -1160816221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_150
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 178
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450500cf06853a1458084c693ee5252d
+      internalID: 1945697406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_151
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 178
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d815b984aadb8af4e838c51acb01eaaa
+      internalID: 1409404969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_152
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 178
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731818ae779a6e045893cdf382401002
+      internalID: 626418013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_153
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 178
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eb65f0b950ff846a75eded5762d82d
+      internalID: 219925198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_154
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 162
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a16423618a6db04ca71edeb6beca507
+      internalID: 285968111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53723f06012b7348bba278deb7589fe
+      internalID: 1252446130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_156
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 161
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111f8de9c8db6ce4e98a5667f1061e42
+      internalID: 2037571896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_157
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 161
+        width: 91
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4769d37e0e2a05c4db9c6eb79668aa52
+      internalID: -742826468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_158
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 162
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f84171ed430ae041b63bfe8f4e714e9
+      internalID: -466183635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_159
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 162
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1335bf019e4d04e47b356134f6136c0c
+      internalID: -1207837960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_160
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 162
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b261a4db1f67a241a626ed17447d7be
+      internalID: -138470521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_161
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 162
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e47c35f27c21f4c99645489277a94f
+      internalID: 1300141720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_162
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 162
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63dcb9ad7755e74fac31e9d30331fe1
+      internalID: 543023247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_163
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 146
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f98292eeefd284fb3f40ebc943e629
+      internalID: 858425426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_164
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce19bb0286c49854c9e6aff580765221
+      internalID: -566413008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_165
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 129
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd97aa52450fd64a8da72bad1d216ad
+      internalID: 890424878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_166
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 128
+        width: 94
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca0967659ed734fad05f9a221761e8
+      internalID: 1403645176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_167
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 129
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531cff8a552743648b28639faeeeabf9
+      internalID: -445868458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_168
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 129
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7336b4652dcf7784c9a4a86f9330508b
+      internalID: 431876284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_169
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277da1ed29f7b6643aec0d608b2091ee
+      internalID: 283868967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_170
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 130
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12178cafedab0554685060871573101f
+      internalID: -1658943540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011511e2ad5191b48b69818fb6bee5be
+      internalID: 644142489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_172
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 129
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f006c70c98f334c4daf8eb563f52f389
+      internalID: -393368240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_173
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 129
+        width: 91
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e04859b34887a408d447ac49231852
+      internalID: -1656876709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_174
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 51
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ff9b4f1d29aab4ba37b68266a014a6
+      internalID: 454136058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_175
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 97
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a80052f6300c241ada46207481db5c
+      internalID: 485197585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_176
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 94
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63986b00c2b1c204f943e5c0ebd622c6
+      internalID: 177547599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_177
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 97
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2175e33908905a4f82a71c6475c96c9
+      internalID: 631192311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_178
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 97
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ab486a06c02e4296a98b0cee496a5
+      internalID: 820515723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_179
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec8fde32e199dd4988634056367a2f2
+      internalID: 2029619052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_180
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfa7420fed6eee4084fc727bf481c82
+      internalID: 466706561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd269f65730010c44957bddc40fadc5a
+      internalID: -417805208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32df55e8e4447ab47a7a92762090bf58
+      internalID: -1085327576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_183
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 97
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a98b77d523489e44adbcab576d25926
+      internalID: 752749090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_184
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 97
+        width: 91
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305e209d99e768f489a50974125ea068
+      internalID: -722705785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_185
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 65
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5240496d2d79247acee470fa7cdcc0
+      internalID: -1364006050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_186
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 93
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45901c29c9e6ef4da97fc8a54832d01
+      internalID: -1335738685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_187
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 65
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00947ca568e11de45b2d7199191faf26
+      internalID: -176125138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_188
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 64
+        width: 94
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb30dbacf5923043843a32bdf9072cf
+      internalID: 1940074605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_189
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 65
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27373aaa9847bcd409b07314b8a04550
+      internalID: -150641920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_190
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 65
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c69c09bab0100040a667f604de9233b
+      internalID: 1886594065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_191
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 69
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dd8977fbc17134ead7e06f258a9746
+      internalID: -1317592935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_192
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 32
+        width: 93
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2061c002fc0bca4394806e6a444d182
+      internalID: -697007123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_193
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 33
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c848e5aa95619164689781b5ed6dde5b
+      internalID: 521518725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_194
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 32
+        width: 94
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494e3c3e8620a8f42924ee50a048c7ec
+      internalID: 396149916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_195
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 33
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbcee2be642a464682f0d9002d9d15f
+      internalID: -867963179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_196
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 33
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e0a34756198454895c08d7c85fdfeb
+      internalID: 490432968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_197
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 36
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e82d5154e3ab45bf991a9bdb99f2d
+      internalID: -186984241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_198
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8832afc98ea93ae4eba90a9b9c978fac
+      internalID: -1055439249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_199
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 94
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2366274d355257a4b920f57682f68bb4
+      internalID: -370254418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_200
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a7f9c1f07ef848adc4db01153dc08
+      internalID: 229550393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_201
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f8b307182222d429f6035ddbe4d817
+      internalID: -249761276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health HUD system_202
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f7c63410eb25a4e8dab59c7700816b
+      internalID: -1071802424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Health HUD system_0: 1577132539
+      Health HUD system_1: 329407847
+      Health HUD system_10: 2134489200
+      Health HUD system_100: 644770934
+      Health HUD system_101: 518510600
+      Health HUD system_102: 899782182
+      Health HUD system_103: -1189105663
+      Health HUD system_104: -1990191436
+      Health HUD system_105: 301558026
+      Health HUD system_106: -1565544176
+      Health HUD system_107: -244893529
+      Health HUD system_108: -222723879
+      Health HUD system_109: 1928950186
+      Health HUD system_11: -342646367
+      Health HUD system_110: -904398559
+      Health HUD system_111: -1444638423
+      Health HUD system_112: -1773274711
+      Health HUD system_113: -2139458240
+      Health HUD system_114: 1043686122
+      Health HUD system_115: 1524441725
+      Health HUD system_116: -1876490564
+      Health HUD system_117: -1458393224
+      Health HUD system_118: -1306177120
+      Health HUD system_119: -1818922848
+      Health HUD system_12: 595909960
+      Health HUD system_120: -1984677083
+      Health HUD system_121: 978288544
+      Health HUD system_122: 87437760
+      Health HUD system_123: 953591470
+      Health HUD system_124: 793414575
+      Health HUD system_125: 1237308347
+      Health HUD system_126: -229302549
+      Health HUD system_127: -492998653
+      Health HUD system_128: 1961148755
+      Health HUD system_129: -1576704201
+      Health HUD system_13: -1888631085
+      Health HUD system_130: 2126526181
+      Health HUD system_131: -2057565370
+      Health HUD system_132: -2147034316
+      Health HUD system_133: 675171860
+      Health HUD system_134: -95178564
+      Health HUD system_135: 1117484541
+      Health HUD system_136: -347481401
+      Health HUD system_137: 346255664
+      Health HUD system_138: -1908053180
+      Health HUD system_139: -82470642
+      Health HUD system_14: 760126657
+      Health HUD system_140: -2118079369
+      Health HUD system_141: -1017323108
+      Health HUD system_142: 1962615383
+      Health HUD system_143: 757869095
+      Health HUD system_144: -197630924
+      Health HUD system_145: -105399484
+      Health HUD system_146: -789056673
+      Health HUD system_147: 2061195130
+      Health HUD system_148: 1140819310
+      Health HUD system_149: -1160816221
+      Health HUD system_15: 828609781
+      Health HUD system_150: 1945697406
+      Health HUD system_151: 1409404969
+      Health HUD system_152: 626418013
+      Health HUD system_153: 219925198
+      Health HUD system_154: 285968111
+      Health HUD system_155: 1252446130
+      Health HUD system_156: 2037571896
+      Health HUD system_157: -742826468
+      Health HUD system_158: -466183635
+      Health HUD system_159: -1207837960
+      Health HUD system_16: -50196421
+      Health HUD system_160: -138470521
+      Health HUD system_161: 1300141720
+      Health HUD system_162: 543023247
+      Health HUD system_163: 858425426
+      Health HUD system_164: -566413008
+      Health HUD system_165: 890424878
+      Health HUD system_166: 1403645176
+      Health HUD system_167: -445868458
+      Health HUD system_168: 431876284
+      Health HUD system_169: 283868967
+      Health HUD system_17: -897414666
+      Health HUD system_170: -1658943540
+      Health HUD system_171: 644142489
+      Health HUD system_172: -393368240
+      Health HUD system_173: -1656876709
+      Health HUD system_174: 454136058
+      Health HUD system_175: 485197585
+      Health HUD system_176: 177547599
+      Health HUD system_177: 631192311
+      Health HUD system_178: 820515723
+      Health HUD system_179: 2029619052
+      Health HUD system_18: 1164778868
+      Health HUD system_180: 466706561
+      Health HUD system_181: -417805208
+      Health HUD system_182: -1085327576
+      Health HUD system_183: 752749090
+      Health HUD system_184: -722705785
+      Health HUD system_185: -1364006050
+      Health HUD system_186: -1335738685
+      Health HUD system_187: -176125138
+      Health HUD system_188: 1940074605
+      Health HUD system_189: -150641920
+      Health HUD system_19: 1999235345
+      Health HUD system_190: 1886594065
+      Health HUD system_191: -1317592935
+      Health HUD system_192: -697007123
+      Health HUD system_193: 521518725
+      Health HUD system_194: 396149916
+      Health HUD system_195: -867963179
+      Health HUD system_196: 490432968
+      Health HUD system_197: -186984241
+      Health HUD system_198: -1055439249
+      Health HUD system_199: -370254418
+      Health HUD system_2: 2145796106
+      Health HUD system_20: -1511741340
+      Health HUD system_200: 229550393
+      Health HUD system_201: -249761276
+      Health HUD system_202: -1071802424
+      Health HUD system_21: 1334594422
+      Health HUD system_22: -1271515610
+      Health HUD system_23: 16799775
+      Health HUD system_24: 1512111033
+      Health HUD system_25: 726823330
+      Health HUD system_26: 874421222
+      Health HUD system_27: 800087852
+      Health HUD system_28: 1595897066
+      Health HUD system_29: 1930767444
+      Health HUD system_3: 1729049086
+      Health HUD system_30: -1135670544
+      Health HUD system_31: 286219209
+      Health HUD system_32: -1232177699
+      Health HUD system_33: 630241736
+      Health HUD system_34: -1409950379
+      Health HUD system_35: -1070136358
+      Health HUD system_36: -1836680717
+      Health HUD system_37: 1387196923
+      Health HUD system_38: -845200119
+      Health HUD system_39: 65680089
+      Health HUD system_4: -597339068
+      Health HUD system_40: 117949340
+      Health HUD system_41: -5875488
+      Health HUD system_42: 263715961
+      Health HUD system_43: 249512436
+      Health HUD system_44: -123764919
+      Health HUD system_45: 1016550917
+      Health HUD system_46: -524804030
+      Health HUD system_47: 613173808
+      Health HUD system_48: 418210299
+      Health HUD system_49: -303109817
+      Health HUD system_5: -1322837274
+      Health HUD system_50: 1074980153
+      Health HUD system_51: -2123613315
+      Health HUD system_52: 2113209838
+      Health HUD system_53: 782529537
+      Health HUD system_54: -642797093
+      Health HUD system_55: -391119049
+      Health HUD system_56: 462014348
+      Health HUD system_57: 465076805
+      Health HUD system_58: 1496920849
+      Health HUD system_59: 2056947985
+      Health HUD system_6: 596692822
+      Health HUD system_60: 633750768
+      Health HUD system_61: -1155004248
+      Health HUD system_62: -1476627718
+      Health HUD system_63: 2066109824
+      Health HUD system_64: 44462809
+      Health HUD system_65: -1719619079
+      Health HUD system_66: 1594924630
+      Health HUD system_67: 715706969
+      Health HUD system_68: -750919360
+      Health HUD system_69: 914140974
+      Health HUD system_7: -1823596828
+      Health HUD system_70: 102181472
+      Health HUD system_71: 1006444829
+      Health HUD system_72: -1547791477
+      Health HUD system_73: 1480189222
+      Health HUD system_74: 468369922
+      Health HUD system_75: -2125254711
+      Health HUD system_76: 694404667
+      Health HUD system_77: -2075990506
+      Health HUD system_78: 2127427448
+      Health HUD system_79: 787553770
+      Health HUD system_8: 458744026
+      Health HUD system_80: -676962967
+      Health HUD system_81: 191950093
+      Health HUD system_82: -202788738
+      Health HUD system_83: 1449485549
+      Health HUD system_84: 1067707504
+      Health HUD system_85: -1967158398
+      Health HUD system_86: 254914626
+      Health HUD system_87: -1570582960
+      Health HUD system_88: -422958314
+      Health HUD system_89: -1791967074
+      Health HUD system_9: 156381134
+      Health HUD system_90: 1788382066
+      Health HUD system_91: 297087018
+      Health HUD system_92: 361613033
+      Health HUD system_93: 2091253383
+      Health HUD system_94: -1821041972
+      Health HUD system_95: -2088235742
+      Health HUD system_96: 905690009
+      Health HUD system_97: 2081208009
+      Health HUD system_98: 659831971
+      Health HUD system_99: -1568964664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: ef13bc2173bae3f49b4a90e638876969
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_0
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 821
+      height: 564
+    spriteID: ce83a1de8043601458e9265a5a7de790
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_1
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 4
+      width: 821
+      height: 564
+    spriteID: ed668b4469f32db46bc80796991594c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 833, y: 4}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_2
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1662
+      y: 4
+      width: 821
+      height: 564
+    spriteID: acd37ed83b1ea5b489fe50db72eeca4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1662, y: 4}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_3
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2491
+      y: 4
+      width: 821
+      height: 564
+    spriteID: 72e740081a708cf46897720a489cd91c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2491, y: 4}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_4
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 576
+      width: 821
+      height: 564
+    spriteID: fd0d583050cedb74d8b0364290e5f9b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 576}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_5
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 576
+      width: 821
+      height: 564
+    spriteID: 19c09a1ef59591e4ba7bd80412e5c3c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 833, y: 576}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_6
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1662
+      y: 576
+      width: 821
+      height: 564
+    spriteID: 58583d3cff1d1154f8b2fc6af2eb6f33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1662, y: 576}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_7
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2491
+      y: 576
+      width: 821
+      height: 564
+    spriteID: 93cb692381646324897cf5ff6fb7a170
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2491, y: 576}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_8
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1148
+      width: 821
+      height: 564
+    spriteID: 69f3abc084f1420428d65f3fd3bce2fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1148}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_9
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 1148
+      width: 821
+      height: 564
+    spriteID: bf5aa00293c818f48b7c654848acccd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 833, y: 1148}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_10
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1662
+      y: 1148
+      width: 821
+      height: 564
+    spriteID: 064dff477cf09774eaf8760df6bf19d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1662, y: 1148}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_11
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2491
+      y: 1148
+      width: 821
+      height: 564
+    spriteID: f06fd5451661529409a3a9f94f4dfd9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2491, y: 1148}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_12
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1720
+      width: 821
+      height: 564
+    spriteID: c54240b5e65a84d40b597d3e91c3aea2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1720}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_13
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 1720
+      width: 821
+      height: 564
+    spriteID: a663f12b9063629478e7cd358d7abacd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 833, y: 1720}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_14
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1662
+      y: 1720
+      width: 821
+      height: 564
+    spriteID: 7c739521e654ccb4cb2654e5ee47850e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1662, y: 1720}
+  - name: HARVEST SUMMER COMPLETE TILESET_Frame_15
+    originalName: 
+    pivot: {x: 0.49451888, y: -0.010638299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2491
+      y: 1720
+      width: 821
+      height: 564
+    spriteID: a227c0ebed7b34a4dbb7c86883c9f19c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2491, y: 1720}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -49227003
+    name: HARVEST SUMMER COMPLETE TILESET
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: ce83a1de8043601458e9265a5a7de790
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: ed668b4469f32db46bc80796991594c8
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: acd37ed83b1ea5b489fe50db72eeca4c
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: 72e740081a708cf46897720a489cd91c
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: fd0d583050cedb74d8b0364290e5f9b7
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: 19c09a1ef59591e4ba7bd80412e5c3c4
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: 58583d3cff1d1154f8b2fc6af2eb6f33
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: 93cb692381646324897cf5ff6fb7a170
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: 69f3abc084f1420428d65f3fd3bce2fa
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: bf5aa00293c818f48b7c654848acccd3
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: 064dff477cf09774eaf8760df6bf19d9
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: f06fd5451661529409a3a9f94f4dfd9a
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: c54240b5e65a84d40b597d3e91c3aea2
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: a663f12b9063629478e7cd358d7abacd
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: 7c739521e654ccb4cb2654e5ee47850e
+    - name: HARVEST SUMMER COMPLETE TILESET_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 6
+        width: 821
+        height: 564
+      spriteId: a227c0ebed7b34a4dbb7c86883c9f19c
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 832, y: 570}
